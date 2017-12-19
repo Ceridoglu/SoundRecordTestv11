@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302543057290",
+    "firebase_url": "https://soundrecordtestv11.firebaseio.com",
+    "project_id": "soundrecordtestv11",
+    "storage_bucket": "soundrecordtestv11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302543057290:android:000c024651ac2b9f",
+        "android_client_info": {
+          "package_name": "com.cihansoylular.soundrecordtestv11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302543057290-rv027dqphvlrcuap1pqdv3gdalh4g7k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cihansoylular.soundrecordtestv11",
+            "certificate_hash": "84a723de3b81a20c776688c1fae34b9d69b3f794"
+          }
+        },
+        {
+          "client_id": "302543057290-22npno02ok48ba6iqcgq97tmsedkmnt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWF4yQJP_fFVOl4MxXwhWHCRslJ9bUtk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302543057290-22npno02ok48ba6iqcgq97tmsedkmnt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
